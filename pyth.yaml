@@ -1,0 +1,3 @@
+name: beginner-env
+dependencies:
+  - python=3.11
